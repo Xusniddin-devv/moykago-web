@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /og/
+Disallow: /download/
+Disallow: /w/
+
+Sitemap: https://moyka-go.uz/sitemap.xml

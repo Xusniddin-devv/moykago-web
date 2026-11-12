@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uz.moyka.app",
+      "sha256_cert_fingerprints": [
+        "A7:DA:A4:9F:59:A3:30:9D:85:BD:4D:40:9A:FE:51:16:11:71:77:1C:61:AF:2B:30:13:CF:F1:BC:C0:CC:31:A4",
+        "7B:81:D7:02:9C:BE:95:BE:59:8E:FD:91:80:08:02:05:2C:5D:29:28:A7:6B:5C:30:D2:97:8E:10:F2:6B:00:84"
+      ]
+    }
+  }
+]

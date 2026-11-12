@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://moyka-go.uz/</loc>
+<xhtml:link rel="alternate" hreflang="uz-UZ" href="https://moyka-go.uz/" />
+<xhtml:link rel="alternate" hreflang="ru-RU" href="https://moyka-go.uz/ru/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://moyka-go.uz/ru/</loc>
+<xhtml:link rel="alternate" hreflang="uz-UZ" href="https://moyka-go.uz/" />
+<xhtml:link rel="alternate" hreflang="ru-RU" href="https://moyka-go.uz/ru/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://moyka-go.uz/privacy/</loc>
+<xhtml:link rel="alternate" hreflang="uz-UZ" href="https://moyka-go.uz/privacy/" />
+<xhtml:link rel="alternate" hreflang="ru-RU" href="https://moyka-go.uz/ru/privacy/" />
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://moyka-go.uz/ru/privacy/</loc>
+<xhtml:link rel="alternate" hreflang="uz-UZ" href="https://moyka-go.uz/privacy/" />
+<xhtml:link rel="alternate" hreflang="ru-RU" href="https://moyka-go.uz/ru/privacy/" />
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://moyka-go.uz/delete-account/</loc>
+<xhtml:link rel="alternate" hreflang="uz-UZ" href="https://moyka-go.uz/delete-account/" />
+<xhtml:link rel="alternate" hreflang="ru-RU" href="https://moyka-go.uz/ru/delete-account/" />
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://moyka-go.uz/ru/delete-account/</loc>
+<xhtml:link rel="alternate" hreflang="uz-UZ" href="https://moyka-go.uz/delete-account/" />
+<xhtml:link rel="alternate" hreflang="ru-RU" href="https://moyka-go.uz/ru/delete-account/" />
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+</urlset>

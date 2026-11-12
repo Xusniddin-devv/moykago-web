@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["GDS2MU4Y2S.uz.moyka-go.app"],
+        "components": [
+          { "/": "/w/*", "comment": "A venue's door QR: open the venue in the app" },
+          { "/": "/c/*", "comment": "A bay's check-in QR: check the driver in, in the app" }
+        ]
+      }
+    ]
+  }
+}
